@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Ferramirez/learningreact/RealmImgur/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/Ferramirez/learningreact/RealmImgur/android/app/build/intermediates/pre-dexed/debug/classes-316bcd1e33b147aadc0132fba58854badfbb3b98.jar" />
+    </item>
+    <item
+        jar="/Users/Ferramirez/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/Ferramirez/learningreact/RealmImgur/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1-2bb299fea5694ddffc2b25fc857e38ece32aed04.jar" />
+    </item>
+    <item
+        jar="/Users/Ferramirez/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/Ferramirez/learningreact/RealmImgur/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-a22209e95a0dd9dfac5c9bede09c70b4959d7efc.jar" />
+    </item>
+    <item
+        jar="/Users/Ferramirez/learningreact/RealmImgur/android/app/build/intermediates/exploded-aar/RealmImgur/realm/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="32c3b6c361e689c54cc687cc586afb7b9ac68a0f">
+        <dex dex="/Users/Ferramirez/learningreact/RealmImgur/android/app/build/intermediates/pre-dexed/debug/classes-8fbf0293cf62e9fccd01357036716e6cb9a051b1.jar" />
+    </item>
+    <item
+        jar="/Users/Ferramirez/learningreact/RealmImgur/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/Ferramirez/learningreact/RealmImgur/android/app/build/intermediates/pre-dexed/debug/classes-cdc7e43a60d008503b799d466826fdcf9e503598.jar" />
+    </item>
+    <item
+        jar="/Users/Ferramirez/learningreact/RealmImgur/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/Ferramirez/learningreact/RealmImgur/android/app/build/intermediates/pre-dexed/debug/classes-d0bcef1d47ac3f6ba7b0f65ff627564becf2ca22.jar" />
+    </item>
+    <item
+        jar="/Users/Ferramirez/learningreact/RealmImgur/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/Ferramirez/learningreact/RealmImgur/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-763e46f2095c7610df1ac53a4985065093b4b83e.jar" />
+    </item>
+    <item
+        jar="/Users/Ferramirez/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/Ferramirez/learningreact/RealmImgur/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-6f9aead9fc32184cd734e8af56543348cbc99152.jar" />
+    </item>
+    <item
+        jar="/Users/Ferramirez/learningreact/RealmImgur/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/Ferramirez/learningreact/RealmImgur/android/app/build/intermediates/pre-dexed/debug/classes-917863771dc929311a803f47f0f9e715c7b4538d.jar" />
+    </item>
+    <item
+        jar="/Users/Ferramirez/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/Ferramirez/learningreact/RealmImgur/android/app/build/intermediates/pre-dexed/debug/okio-1.8.0-1eeba8124974ab12c3556639be3ec04452c77c66.jar" />
+    </item>
+    <item
+        jar="/Users/Ferramirez/.gradle/caches/modules-2/files-2.1/org.nanohttpd/nanohttpd/2.2.0/73a02117620b6cc7683a1ed6ae24c2f36e2a715/nanohttpd-2.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="073a02117620b6cc7683a1ed6ae24c2f36e2a715">
+        <dex dex="/Users/Ferramirez/learningreact/RealmImgur/android/app/build/intermediates/pre-dexed/debug/nanohttpd-2.2.0-9e28b94039aaa0926766cc00992d38024442562d.jar" />
+    </item>
+    <item
+        jar="/Users/Ferramirez/learningreact/RealmImgur/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/Ferramirez/learningreact/RealmImgur/android/app/build/intermediates/pre-dexed/debug/classes-9628cabc1f82a124b594eba9f45323ab36887c95.jar" />
+    </item>
+    <item
+        jar="/Users/Ferramirez/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/Ferramirez/learningreact/RealmImgur/android/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0-4a25d4339cb29e2512be9df53110d04bf30cc708.jar" />
+    </item>
+    <item
+        jar="/Users/Ferramirez/learningreact/RealmImgur/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.30.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b3e583f69ed6ccd7cc7f5fe75e41464ffafb8e17">
+        <dex dex="/Users/Ferramirez/learningreact/RealmImgur/android/app/build/intermediates/pre-dexed/debug/classes-cfcc1318eee31c8d4b576da28c9fb0abbe8962cb.jar" />
+    </item>
+    <item
+        jar="/Users/Ferramirez/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/Ferramirez/learningreact/RealmImgur/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-2789ec42ba98afc8dfce97df889115b6964d7f2e.jar" />
+    </item>
+    <item
+        jar="/Users/Ferramirez/learningreact/RealmImgur/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/Ferramirez/learningreact/RealmImgur/android/app/build/intermediates/pre-dexed/debug/classes-8f05f04f8d17ff2a418879c571a70a554a1837c8.jar" />
+    </item>
+    <item
+        jar="/Users/Ferramirez/learningreact/RealmImgur/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/Ferramirez/learningreact/RealmImgur/android/app/build/intermediates/pre-dexed/debug/classes-4f82f4137e16e78c07e313a594b0ed6e4b647b4b.jar" />
+    </item>
+    <item
+        jar="/Users/Ferramirez/learningreact/RealmImgur/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/Ferramirez/learningreact/RealmImgur/android/app/build/intermediates/pre-dexed/debug/classes-6d5362e6dda2378dd0458a26b6f980cbd4bc3bdf.jar" />
+    </item>
+    <item
+        jar="/Users/Ferramirez/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.2.0/1ea229d6984444c8c58b8e97ba4c8429d9d135b3/okhttp-ws-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ea229d6984444c8c58b8e97ba4c8429d9d135b3">
+        <dex dex="/Users/Ferramirez/learningreact/RealmImgur/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.2.0-3bf04d72b50272b6b99b8c30a066c7745e39bc0d.jar" />
+    </item>
+    <item
+        jar="/Users/Ferramirez/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/Ferramirez/learningreact/RealmImgur/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-bb253326d1c9ee0ea4416a0c4198b7e3e5f65c81.jar" />
+    </item>
+    <item
+        jar="/Users/Ferramirez/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.2.0/6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c/okhttp-urlconnection-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c">
+        <dex dex="/Users/Ferramirez/learningreact/RealmImgur/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.2.0-dd3af2c4320436f8ce9ea479a69d93dc8e475f52.jar" />
+    </item>
+    <item
+        jar="/Users/Ferramirez/learningreact/RealmImgur/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.30.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0bbd1350ccbd98c0648b9a8bd1242233847886ba">
+        <dex dex="/Users/Ferramirez/learningreact/RealmImgur/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-8abf8fe8d5aee27b28fde8ac0e50f0ec9c3bb332.jar" />
+    </item>
+    <item
+        jar="/Users/Ferramirez/learningreact/RealmImgur/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/Ferramirez/learningreact/RealmImgur/android/app/build/intermediates/pre-dexed/debug/classes-9b9b82c9c9ca62233a1465646739457a2dbc4c94.jar" />
+    </item>
+
+</items>
